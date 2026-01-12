@@ -35,8 +35,4 @@ Note: If your antivirus flags the file, please allow the execution. This is a co
 
 
 
-Enfoque en eficiencia: Usar frases como "reducing the time spent" o "streamline processes" son las palabras clave que buscan los reclutadores de RH para puestos de Analista de Operaciones.
 
-
-Autoridad: Al mencionar tus 10 años de experiencia directamente en el README, le das confianza a quien descargue el código de que el sistema realmente entiende las necesidades de una clínica.
-+1
