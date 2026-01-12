@@ -32,10 +32,7 @@ Run the executable on your Windows environment.
 
 Note: If your antivirus flags the file, please allow the execution. This is a common false positive for custom Python-compiled executables; the software is safe and virus-free.
 
-💡 Por qué este cambio es clave para ti:
 
-Vende el "SQL": Al mencionar que el programa crea la base de datos, demuestras que sabes cómo estructurar información, no solo cómo llenarla.
-+1
 
 
 Enfoque en eficiencia: Usar frases como "reducing the time spent" o "streamline processes" son las palabras clave que buscan los reclutadores de RH para puestos de Analista de Operaciones.
